@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 # ── Config (set these in your .env file) ──────────────────────────────────────
 SENDER_EMAIL    = os.getenv("SENDER_EMAIL", "chiragdeviputra33@gmail.com")
-SENDER_PASSWORD = os.getenv("SENDER_PASSWORD", "nzzg zbgm iavt luns")          # Gmail App Password
+SENDER_PASSWORD = os.getenv("SENDER_PASSWORD", "")          # Gmail App Password
 RECEIVER_EMAIL  = os.getenv("RECEIVER_EMAIL", "chiragdeviputra33@gmail.com")
 # ─────────────────────────────────────────────────────────────────────────────
 
