@@ -62,7 +62,7 @@ RECEIVER_EMAIL=your_email
 python app.py
 ```
 
-Open your browser at: **http://localhost:5000**
+Open your browser at: **https://my-first-portfolio-web-ten.vercel.app/**
 
 ---
 
